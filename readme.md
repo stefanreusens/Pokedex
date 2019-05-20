@@ -6,4 +6,4 @@ We were given some [API's](https://pokeapi.co/api/v2/generation/1/) and had to f
 
 ## Link
 
-[Go to the website]()
+[Go to the website](https://stefanreusens.github.io/Pokedex/)
