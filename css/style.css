@@ -1,0 +1,119 @@
+body {
+  padding: 10px;
+  background-color: #E8DF9D;
+  color: #F75E50;
+
+}
+
+
+ul.list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-left: 0px;
+}
+
+li {
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+p.evolution {
+  color: #F75E50;
+  margin-bottom: 0px;
+}
+
+p.notEvolved {
+  color: black;
+  margin-top: 10px;
+}
+
+.evolvedSprite {
+  display: block;
+  margin: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+h2 {
+  font-size: 1.2em;
+  text-align: center;
+  margin-bottom: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  margin: auto;
+  margin-top: 0px;
+}
+
+input {
+  display: block;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 30px;
+  width: 400px;
+}
+
+input[placeholder] {
+  text-align: center;
+  font-size: 12px;
+  font-family: 'Poppins', sans-serif;
+}
+
+input:active {
+  outline: none;
+}
+
+button {
+  display: block;
+  margin: auto;
+  background-color: #F75E50;
+  color: #E8DF9D;
+  margin-bottom: 10px;
+}
+
+button:focus {
+  outline: none;
+}
+
+p {
+  text-align: center;
+  color: black;
+}
+
+.moves {
+  display: block;
+  width: 400px;
+  text-align: center;
+  padding-left: 0px;
+  line-height: 0.5;
+}
+
+.types {
+  display: block;
+  width: 400px;
+  text-align: center;
+  padding-left: 0px;
+  line-height: 0.5;
+}
+
+.typetitle {
+  margin-top: 10px;
+}
+
+h4 {
+  margin-bottom: 0px;
+  text-align: center;
+  color: black;
+  font-size: 1em;
+  margin-top: 10px;
+}
